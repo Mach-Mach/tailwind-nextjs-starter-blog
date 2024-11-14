@@ -14,6 +14,7 @@
   "dependencies": {
     "@algolia/autocomplete-js": "^1.17.7",
     "@algolia/client-search": "^5.13.0",
+    "@aws-sdk/client-s3": "^3.689.0",
     "@headlessui/react": "2.2.0",
     "@next/bundle-analyzer": "15.0.2",
     "@opentelemetry/api": "^1.9.0",

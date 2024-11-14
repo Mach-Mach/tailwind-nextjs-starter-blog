@@ -15,12 +15,10 @@ const projectsData: Project[] = [
     href: 'https://www.google.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: 'ML Fundamentals',
+    description: `Welcome to ML Fundamentals! Here, we break down the basics of Machine Learning in a way that’s easy to follow and ready to use. Get a handle on core ideas, from algorithms to model building, so you can confidently dive into the world of ML. Perfect for anyone looking to get started or brush up on the essentials.`,
     imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    href: '/projects/ml-fundamentals',
   },
 ]
 
